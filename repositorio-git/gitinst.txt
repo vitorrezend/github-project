@@ -1,0 +1,23 @@
+First test commit
+
+Usefull commands
+
+git init - init git in this folder
+
+git add . - add files change in the respository
+
+git commit . - make
+
+git push - Upfile in the GitHub
+
+git branch - List branchs
+
+git branch [new_branch] - Create a new branch
+
+git checkout [new_branch] - Move to new branch
+
+git branch -d [branch_name] - Remove this branch
+
+git merge [branch] - Information fusion of two branches
+
+
